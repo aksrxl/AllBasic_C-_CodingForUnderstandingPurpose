@@ -1,0 +1,6 @@
+C:\Users\PAPABOSS\documents\visual studio 2013\Projects\eg1\seperating the character of string\bin\Debug\seperating the character of string.exe.config
+C:\Users\PAPABOSS\documents\visual studio 2013\Projects\eg1\seperating the character of string\bin\Debug\seperating the character of string.exe
+C:\Users\PAPABOSS\documents\visual studio 2013\Projects\eg1\seperating the character of string\bin\Debug\seperating the character of string.pdb
+C:\Users\PAPABOSS\documents\visual studio 2013\Projects\eg1\seperating the character of string\obj\Debug\seperating the character of string.exe
+C:\Users\PAPABOSS\documents\visual studio 2013\Projects\eg1\seperating the character of string\obj\Debug\seperating the character of string.pdb
+C:\Users\PAPABOSS\documents\visual studio 2013\Projects\eg1\seperating the character of string\obj\Debug\seperating the character of string.csprojResolveAssemblyReference.cache

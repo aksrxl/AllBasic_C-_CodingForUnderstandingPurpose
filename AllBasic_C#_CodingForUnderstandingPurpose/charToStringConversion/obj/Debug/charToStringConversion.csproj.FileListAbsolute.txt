@@ -1,0 +1,6 @@
+C:\Users\PAPABOSS\documents\visual studio 2013\Projects\eg1\charToStringConversion\bin\Debug\charToStringConversion.exe.config
+C:\Users\PAPABOSS\documents\visual studio 2013\Projects\eg1\charToStringConversion\bin\Debug\charToStringConversion.exe
+C:\Users\PAPABOSS\documents\visual studio 2013\Projects\eg1\charToStringConversion\bin\Debug\charToStringConversion.pdb
+C:\Users\PAPABOSS\documents\visual studio 2013\Projects\eg1\charToStringConversion\obj\Debug\charToStringConversion.exe
+C:\Users\PAPABOSS\documents\visual studio 2013\Projects\eg1\charToStringConversion\obj\Debug\charToStringConversion.pdb
+C:\Users\PAPABOSS\documents\visual studio 2013\Projects\eg1\charToStringConversion\obj\Debug\charToStringConversion.csprojResolveAssemblyReference.cache

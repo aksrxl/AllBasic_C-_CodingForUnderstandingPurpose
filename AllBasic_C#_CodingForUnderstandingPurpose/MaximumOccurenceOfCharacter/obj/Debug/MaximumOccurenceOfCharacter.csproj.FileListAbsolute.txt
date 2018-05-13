@@ -1,0 +1,6 @@
+C:\Users\PAPABOSS\documents\visual studio 2013\Projects\eg1\MaximumOccurenceOfCharacter\bin\Debug\MaximumOccurenceOfCharacter.exe.config
+C:\Users\PAPABOSS\documents\visual studio 2013\Projects\eg1\MaximumOccurenceOfCharacter\obj\Debug\MaximumOccurenceOfCharacter.csprojResolveAssemblyReference.cache
+C:\Users\PAPABOSS\documents\visual studio 2013\Projects\eg1\MaximumOccurenceOfCharacter\bin\Debug\MaximumOccurenceOfCharacter.exe
+C:\Users\PAPABOSS\documents\visual studio 2013\Projects\eg1\MaximumOccurenceOfCharacter\bin\Debug\MaximumOccurenceOfCharacter.pdb
+C:\Users\PAPABOSS\documents\visual studio 2013\Projects\eg1\MaximumOccurenceOfCharacter\obj\Debug\MaximumOccurenceOfCharacter.exe
+C:\Users\PAPABOSS\documents\visual studio 2013\Projects\eg1\MaximumOccurenceOfCharacter\obj\Debug\MaximumOccurenceOfCharacter.pdb

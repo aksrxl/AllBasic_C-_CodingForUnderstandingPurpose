@@ -1,0 +1,6 @@
+c:\users\papaboss\documents\visual studio 2013\Projects\eg1\eg1\bin\Debug\eg1.exe.config
+c:\users\papaboss\documents\visual studio 2013\Projects\eg1\eg1\obj\Debug\eg1.exe
+c:\users\papaboss\documents\visual studio 2013\Projects\eg1\eg1\obj\Debug\eg1.pdb
+c:\users\papaboss\documents\visual studio 2013\Projects\eg1\eg1\bin\Debug\eg1.exe
+c:\users\papaboss\documents\visual studio 2013\Projects\eg1\eg1\bin\Debug\eg1.pdb
+C:\Users\PAPABOSS\documents\visual studio 2013\Projects\eg1\eg1\obj\Debug\TowerOfHanoe.csprojResolveAssemblyReference.cache

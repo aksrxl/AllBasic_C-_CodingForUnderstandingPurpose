@@ -1,0 +1,6 @@
+c:\Users\PAPABOSS\documents\visual studio 2013\Projects\eg1\eg2\bin\Debug\eg2.exe.config
+c:\Users\PAPABOSS\documents\visual studio 2013\Projects\eg1\eg2\bin\Debug\eg2.exe
+c:\Users\PAPABOSS\documents\visual studio 2013\Projects\eg1\eg2\bin\Debug\eg2.pdb
+c:\Users\PAPABOSS\documents\visual studio 2013\Projects\eg1\eg2\obj\Debug\eg2.exe
+c:\Users\PAPABOSS\documents\visual studio 2013\Projects\eg1\eg2\obj\Debug\eg2.pdb
+C:\Users\PAPABOSS\documents\visual studio 2013\Projects\eg1\eg2\obj\Debug\eg2.csprojResolveAssemblyReference.cache

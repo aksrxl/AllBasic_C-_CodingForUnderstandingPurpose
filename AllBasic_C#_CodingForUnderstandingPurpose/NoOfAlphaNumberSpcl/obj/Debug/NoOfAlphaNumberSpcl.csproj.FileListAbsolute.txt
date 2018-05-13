@@ -1,0 +1,5 @@
+C:\Users\PAPABOSS\documents\visual studio 2013\Projects\eg1\NoOfAlphaNumberSpcl\bin\Debug\NoOfAlphaNumberSpcl.exe.config
+C:\Users\PAPABOSS\documents\visual studio 2013\Projects\eg1\NoOfAlphaNumberSpcl\bin\Debug\NoOfAlphaNumberSpcl.exe
+C:\Users\PAPABOSS\documents\visual studio 2013\Projects\eg1\NoOfAlphaNumberSpcl\bin\Debug\NoOfAlphaNumberSpcl.pdb
+C:\Users\PAPABOSS\documents\visual studio 2013\Projects\eg1\NoOfAlphaNumberSpcl\obj\Debug\NoOfAlphaNumberSpcl.exe
+C:\Users\PAPABOSS\documents\visual studio 2013\Projects\eg1\NoOfAlphaNumberSpcl\obj\Debug\NoOfAlphaNumberSpcl.pdb

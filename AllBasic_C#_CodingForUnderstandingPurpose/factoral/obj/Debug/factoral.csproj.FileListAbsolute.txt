@@ -1,0 +1,6 @@
+C:\Users\PAPABOSS\documents\visual studio 2013\Projects\eg1\factoral\bin\Debug\factoral.exe.config
+C:\Users\PAPABOSS\documents\visual studio 2013\Projects\eg1\factoral\bin\Debug\factoral.exe
+C:\Users\PAPABOSS\documents\visual studio 2013\Projects\eg1\factoral\bin\Debug\factoral.pdb
+C:\Users\PAPABOSS\documents\visual studio 2013\Projects\eg1\factoral\obj\Debug\factoral.exe
+C:\Users\PAPABOSS\documents\visual studio 2013\Projects\eg1\factoral\obj\Debug\factoral.pdb
+C:\Users\PAPABOSS\documents\visual studio 2013\Projects\eg1\factoral\obj\Debug\factoral.csprojResolveAssemblyReference.cache

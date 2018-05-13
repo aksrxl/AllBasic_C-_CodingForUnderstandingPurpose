@@ -1,0 +1,6 @@
+C:\Users\PAPABOSS\documents\visual studio 2013\Projects\eg1\selectionSort\bin\Debug\selectionSort.exe.config
+C:\Users\PAPABOSS\documents\visual studio 2013\Projects\eg1\selectionSort\bin\Debug\selectionSort.exe
+C:\Users\PAPABOSS\documents\visual studio 2013\Projects\eg1\selectionSort\bin\Debug\selectionSort.pdb
+C:\Users\PAPABOSS\documents\visual studio 2013\Projects\eg1\selectionSort\obj\Debug\selectionSort.exe
+C:\Users\PAPABOSS\documents\visual studio 2013\Projects\eg1\selectionSort\obj\Debug\selectionSort.pdb
+C:\Users\PAPABOSS\documents\visual studio 2013\Projects\eg1\selectionSort\obj\Debug\BubbleSort.csprojResolveAssemblyReference.cache

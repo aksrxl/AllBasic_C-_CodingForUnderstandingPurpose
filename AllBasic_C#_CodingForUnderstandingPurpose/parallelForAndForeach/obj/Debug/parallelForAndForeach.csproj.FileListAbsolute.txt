@@ -1,0 +1,6 @@
+C:\Users\PAPABOSS\documents\visual studio 2013\Projects\eg1\parallelForAndForeach\bin\Debug\parallelForAndForeach.exe.config
+C:\Users\PAPABOSS\documents\visual studio 2013\Projects\eg1\parallelForAndForeach\bin\Debug\parallelForAndForeach.exe
+C:\Users\PAPABOSS\documents\visual studio 2013\Projects\eg1\parallelForAndForeach\bin\Debug\parallelForAndForeach.pdb
+C:\Users\PAPABOSS\documents\visual studio 2013\Projects\eg1\parallelForAndForeach\obj\Debug\parallelForAndForeach.csprojResolveAssemblyReference.cache
+C:\Users\PAPABOSS\documents\visual studio 2013\Projects\eg1\parallelForAndForeach\obj\Debug\parallelForAndForeach.exe
+C:\Users\PAPABOSS\documents\visual studio 2013\Projects\eg1\parallelForAndForeach\obj\Debug\parallelForAndForeach.pdb
